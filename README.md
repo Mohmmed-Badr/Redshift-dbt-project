@@ -1,4 +1,8 @@
-Welcome to your new dbt project!
+Welcome to my new dbt project!
+
+
+![Screenshot 2025-04-06 055940](https://github.com/user-attachments/assets/3bbddea5-7b3d-4d1b-9b9d-4d39fbb2545a)
+
 
 ### Using the starter project
 
