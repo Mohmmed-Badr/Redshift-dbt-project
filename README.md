@@ -4,6 +4,10 @@ Welcome to my new dbt project!
 ![Screenshot 2025-04-06 055940](https://github.com/user-attachments/assets/3bbddea5-7b3d-4d1b-9b9d-4d39fbb2545a)
 
 
+![Screenshot 2025-04-06 055836](https://github.com/user-attachments/assets/eb8e491c-e216-46f8-a1b5-f99cd050e5c9)
+
+
+
 ### Using the starter project
 
 Try running the following commands:
